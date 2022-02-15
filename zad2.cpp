@@ -22,3 +22,6 @@ int main() {
 	return 0;
 	
 }
+
+
+// To jest niesamowity komentarz do super zadanka
